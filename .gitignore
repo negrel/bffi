@@ -1,0 +1,6 @@
+.direnv/
+.envrc
+
+dist/
+
+compile_flags.txt

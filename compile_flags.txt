@@ -1,0 +1,10 @@
+-std=c11
+-ggdb
+-Wall
+-Wextra
+-Werror
+-pedantic
+-Wmissing-prototypes
+-Wstrict-prototypes
+-I./inc
+-I/home/anegrel/code/c/bffi
